@@ -32,6 +32,12 @@ Raw Layer → Clean Layer → Business Layer
    - 03_business_layer.sql
 3. Run data quality checks
 
-## Interview Explanation
-"I built an ELT pipeline where raw data is loaded first and then transformed using SQL
-into clean and analytics-ready tables following a layered architecture."
+## represantation
+
+CSV / Source Data
+      ↓
+Raw Tables (SQL)
+      ↓
+Clean Tables (SQL)
+      ↓
+Business Tables (SQL)
