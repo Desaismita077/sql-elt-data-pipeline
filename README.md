@@ -34,10 +34,7 @@ Raw Layer → Clean Layer → Business Layer
 
 ## represantation
 
-CSV / Source Data
-      ↓
-Raw Tables (SQL)
-      ↓
-Clean Tables (SQL)
-      ↓
-Business Tables (SQL)
+
+
+<img width="1414" height="2000" alt="ELTdata pipeline" src="https://github.com/user-attachments/assets/b9ca5cf4-55cd-42a4-a3e6-8a5044ff762d" />
+
